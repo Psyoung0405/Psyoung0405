@@ -1,4 +1,4 @@
-### Welcome to my github. 😎
+### 🫶🏻Welcome to Psyoung0405's github🫶🏻
 🙌🏻 Hi~ I'm sinyoung.  
 
 I'm majoring in an English education.  
