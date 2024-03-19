@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hi,i'm sinyoung.  
+- Hi,i'm sinyoung.  
 
-- 🌱 I'm majoring in an English education.  
+- I'm majoring in an English education.  
 
-- 👯 I’m learning a Python code for the first time
+- I’m learning a Python code for the first time.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
