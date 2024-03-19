@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm sinyoung.  
+I'm majoring in an English education.  
+I'm learning a Python code for the first time.
 
 <!--
 **Psyoung0405/Psyoung0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
