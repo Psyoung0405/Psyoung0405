@@ -1,5 +1,5 @@
-### Psyoung0405
-🙌🏻 I'm sinyoung.  
+### Welcome to my github. 😎
+🙌🏻 Hi~ I'm sinyoung.  
 
 I'm majoring in an English education.  
 
